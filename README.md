@@ -1,2 +1,2 @@
 # hello-world
-Let's do this!
+This tutorial seems pretty nice, right?
